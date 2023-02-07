@@ -1,1 +1,1 @@
-My first readme updated
+I am now into ALX School
